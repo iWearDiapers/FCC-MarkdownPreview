@@ -1,0 +1,21 @@
+body {
+  color: #82392d;
+}
+
+h1, h2, h3 {
+  font-family: Dosis, sans-serif;
+  color: #666f70;
+}
+h1:hover, h2:hover, h3:hover {
+  font-style: italic;
+}
+
+.view {
+  height: 80vh;
+  width: 45%;
+  display: inline-block;
+}
+
+.pre {
+  padding-left: 15px;
+}
